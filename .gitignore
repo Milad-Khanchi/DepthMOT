@@ -1,0 +1,12 @@
+#files
+.env
+results/tracker/
+
+!results/gt/
+
+speed/
+cache/
+
+external/weights/
+
+

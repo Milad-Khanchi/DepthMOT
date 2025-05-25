@@ -110,3 +110,19 @@ Utilizes:
 - [DepthPro](https://github.com/apple/ml-depth-pro) for zero-shot depth prediction
 - [YOLOX](https://github.com/Megvii-BaseDetection/YOLOX) for object detection
 - [FastReID](https://github.com/JDAI-CV/fast-reid) for Person ReIdentification
+
+
+---
+
+## Citation
+
+If you find this work useful, please cite:
+
+```bibtex
+@inproceedings{khanchi2025depth,
+  title={Depth-aware scoring and hierarchical alignment for multiple object tracking},
+  author={Khanchi, Milad and Amer, Maria and Poullis, Charalambos},
+  booktitle={Proceedings of the IEEE International Conference on Image Processing (ICIP)},
+  year={2025},
+  note={To appear}
+}

@@ -1,8 +1,8 @@
-# Depth-Aware Scoring and Hierarchical Alignment for Multiple Object Tracking  
-**IEEE ICIP 2025**
+# Depth-Aware Scoring and Hierarchical Alignment for Multiple Object Tracking [IEEE ICIP 2025]  
 
+**Overview:**
+![Tracking Visualization](ICIP.png)
 ---
-
 ## 🔧 Installation
 
 ### 1. YOLOX & FastReID

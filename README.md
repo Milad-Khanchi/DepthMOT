@@ -124,5 +124,6 @@ If you find this work useful, please cite:
   author={Khanchi, Milad and Amer, Maria and Poullis, Charalambos},
   booktitle={Proceedings of the IEEE International Conference on Image Processing (ICIP)},
   year={2025},
-  note={Accepted}
+  note={Accepted},
+  url= {https://arxiv.org/abs/2506.00774}
 }
